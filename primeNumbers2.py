@@ -1,3 +1,4 @@
+#The function generates prime numbers in the range of 2 and 100
 import math
 def isPrime(num):
 	for i in range(2, 100):
