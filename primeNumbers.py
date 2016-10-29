@@ -1,3 +1,4 @@
+#The function isPrime() generates prime numbers.
 def isPrime(num):
 	p = 2	
 	while p <= num:
